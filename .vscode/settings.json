@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "C:\\Users\\Formulatrix\\Anaconda3\\envs\\p5python\\python.exe",
+    "python.pythonPath": "C:\\Users\\Formulatrix\\Anaconda3\\python.exe",
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true
 }
